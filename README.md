@@ -7,9 +7,12 @@ Articles
 4. [Don't call yourself a programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 5. [Big Company vs Startup Comp](http://danluu.com/startup-tradeoffs/)
 
+#### Blogs
 
+1. [Chris Stucchio](https://www.chrisstucchio.com/publications.html)
 ### Build Stacks
 [Medium Architecture Stack](https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492#.iskk3ub9o)
+
 
 ###Resources
 
