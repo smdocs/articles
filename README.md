@@ -10,6 +10,7 @@ Articles
 #### Blogs
 
 1. [Chris Stucchio](https://www.chrisstucchio.com/publications.html)
+2. 
 ### Build Stacks
 [Medium Architecture Stack](https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492#.iskk3ub9o)
 
