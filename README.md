@@ -6,6 +6,7 @@ Articles
 3. [Why are projects always behind schedule?](http://priceonomics.com/why-are-projects-always-behind-schedule/)
 4. [Don't call yourself a programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 5. [Big Company vs Startup Comp](http://danluu.com/startup-tradeoffs/)
+6. [Ken Thompson - Reflections on trusting trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 
 #### Blogs
 
