@@ -7,6 +7,7 @@ Articles
 4. [Don't call yourself a programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 5. [Big Company vs Startup Comp](http://danluu.com/startup-tradeoffs/)
 6. [Ken Thompson - Reflections on trusting trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
+7. [10 Things Bitly forgot to Monitor](http://word.bitly.com/post/74839060954/ten-things-to-monitor)
 
 #### Blogs
 
