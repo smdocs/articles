@@ -9,6 +9,7 @@ Articles
 6. [Ken Thompson - Reflections on trusting trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 7. [10 Things Bitly forgot to Monitor](http://word.bitly.com/post/74839060954/ten-things-to-monitor)
 8. [High Scalability - All time favourites](http://highscalability.com/all-time-favorites/)
+9. [10 Practical Docker Tips](http://www.smartjava.org/content/10-practical-docker-tips-day-day-docker-usage)
 
 #### Blogs
 
