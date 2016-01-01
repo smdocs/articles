@@ -19,6 +19,7 @@ Articles
 1. [Chris Stucchio](https://www.chrisstucchio.com/publications.html)
 2. [Thomas Watson - github](https://github.com/watson)
 3. [Make Printers Great Again - Thomas Watson](https://www.youtube.com/watch?v=58Ti8w1yX2w)
+4. [Dr. Gleb Bahmutov, PhD](https://glebbahmutov.com/)
 
 ###Build Stacks
 
