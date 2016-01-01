@@ -11,6 +11,7 @@ Articles
 8. [High Scalability - All time favourites](http://highscalability.com/all-time-favorites/)
 9. [10 Practical Docker Tips](http://www.smartjava.org/content/10-practical-docker-tips-day-day-docker-usage)
 10. [Haskell Game Server - Part 1](http://mojobojo.com/posts/2015-12-26-haskell-game-server-part-1.html)
+11. [[Haskell Game Server - Part 2](http://mojobojo.com/posts/2016-01-01-haskell-game-server-part-2.html)
 11. [Let's build a web server](http://ruslanspivak.com/lsbaws-part1/)
 
 #### Blogs
