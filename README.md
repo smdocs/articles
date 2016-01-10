@@ -34,3 +34,4 @@ Articles
 
 -  [Riot Games Engineering Blog](http://engineering.riotgames.com/)
 -  [Building simple and elegant programming abstractions](http://bulldog2011.github.io/)
+-  [Free Programming resources](https://medium.com/free-stuff/2000-programming-resources-c2c835001216#.cbbi68vuw)
