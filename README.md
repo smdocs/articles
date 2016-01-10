@@ -24,6 +24,7 @@ Articles
 2. [Thomas Watson - github](https://github.com/watson)
 3. [Make Printers Great Again - Thomas Watson](https://www.youtube.com/watch?v=58Ti8w1yX2w)
 4. [Dr. Gleb Bahmutov, PhD](https://glebbahmutov.com/)
+5. [RabbitMq- with Java](http://stackoverflow.com/questions/22901822/when-using-rabbitmq-as-a-java-work-queue-how-should-you-handle-concurrency-and)
 
 ###Build Stacks
 
