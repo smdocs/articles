@@ -17,6 +17,7 @@ Articles
 13. [Who builds a house without drawing blueprints](http://cacm.acm.org/magazines/2015/4/184705-who-builds-a-house-without-drawing-blueprints/fulltext)
 14. [Testing SQL Lite](https://www.sqlite.org/testing.html)
 15. [Project Oberon - the making oi a computer from grounds up](http://www.projectoberon.com/home)
+16. [Files are hard](http://danluu.com/file-consistency/)
 
 #### Blogs
 
