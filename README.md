@@ -19,6 +19,7 @@ Articles
 15. [Project Oberon - the making oi a computer from grounds up](http://www.projectoberon.com/home)
 16. [Files are hard](http://danluu.com/file-consistency/)
 17. [Tinystat](https://github.com/codahale/tinystat)
+18. [How To Remove Duplicates In A Large Dataset Reducing Memory Requirements By 99%](http://highscalability.com/blog/2016/4/4/how-to-remove-duplicates-in-a-large-dataset-reducing-memory.html)
 
 #### Blogs
 
