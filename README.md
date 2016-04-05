@@ -20,6 +20,9 @@ Articles
 16. [Files are hard](http://danluu.com/file-consistency/)
 17. [Tinystat](https://github.com/codahale/tinystat)
 18. [How To Remove Duplicates In A Large Dataset Reducing Memory Requirements By 99%](http://highscalability.com/blog/2016/4/4/how-to-remove-duplicates-in-a-large-dataset-reducing-memory.html)
+19. [Big Data Counting: How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory](http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)
+20. [When Should Approximate Query Processing Be Used?](http://highscalability.com/blog/2016/2/25/when-should-approximate-query-processing-be-used.html)
+21. [Understanding Distributed Analytics Databases, Part 1: Query Strategies](https://www.periscopedata.com/blog/understanding-distributed-analytics-databases-part-1-query-strategies.html)
 
 #### Blogs
 
