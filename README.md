@@ -38,6 +38,7 @@ Articles
 1. [Medium Architecture Stack](https://medium.com/medium-eng/the-stack-that-helped-medium-drive-2-6-millennia-of-reading-time-e56801f7c492#.iskk3ub9o)
 2. [Service Architectures at Scale: Lessons from Google and eBay](http://www.infoq.com/presentations/service-arch-scale-google-ebay)
 3. [Kubernetes](http://kubernetes.io/)
+4. [Debug Linux Software](http://www.linuxuser.co.uk/tutorials/debug-your-own-linux-software-like-a-pro)
 
 
 
