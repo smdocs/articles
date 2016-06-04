@@ -34,6 +34,7 @@ This is a place for me to collect and collate interesting articles related to di
 5. [RabbitMq- with Java](http://stackoverflow.com/questions/22901822/when-using-rabbitmq-as-a-java-work-queue-how-should-you-handle-concurrency-and)
 6. [Stavros Stuff](https://www.stavros.io/posts/emergency-food-button/)
 7. [Programming blogs every programmer must read](http://danluu.com/programming-blogs/)
+8. [marc-andreessen](http://fourhourworkweek.com/2016/05/29/marc-andreessen/)
 
 ###Build Stacks
 
