@@ -24,7 +24,8 @@ This is a place for me to collect and collate interesting articles related to di
 19. [Big Data Counting: How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory](http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)
 20. [When Should Approximate Query Processing Be Used?](http://highscalability.com/blog/2016/2/25/when-should-approximate-query-processing-be-used.html)
 21. [Understanding Distributed Analytics Databases, Part 1: Query Strategies](https://www.periscopedata.com/blog/understanding-distributed-analytics-databases-part-1-query-strategies.html)
-22. [Microservice Inplementation withh Docker](https://dzone.com/articles/microservice-architecture-with-spring-cloud-and-do?edition=179567&utm_source=Spotlight&utm_medium=email&utm_content=queue&utm_campaign=java%202016-06-07)
+22. [Microservice Implementation withh Docker](https://dzone.com/articles/microservice-architecture-with-spring-cloud-and-do?edition=179567&utm_source=Spotlight&utm_medium=email&utm_content=queue&utm_campaign=java%202016-06-07)
+23. [Golang Web Development](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 
 #### Blogs
 
