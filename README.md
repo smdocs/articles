@@ -27,6 +27,7 @@ This is a place for me to collect and collate interesting articles related to di
 22. [Microservice Implementation withh Docker](https://dzone.com/articles/microservice-architecture-with-spring-cloud-and-do?edition=179567&utm_source=Spotlight&utm_medium=email&utm_content=queue&utm_campaign=java%202016-06-07)
 23. [Golang Web Development](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 24. [BGP spoofing](http://www.zdnet.com/article/bgp-spoofing-why-nothing-on-the-internet-is-actually-secure/)
+25. [How Learning Smalltalk can make you a better Programmer](http://techbeacon.com/how-learning-smalltalk-can-make-you-better-developer)
 
 #### Blogs
 
