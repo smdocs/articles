@@ -28,6 +28,7 @@ This is a place for me to collect and collate interesting articles related to di
 23. [Golang Web Development](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 24. [BGP spoofing](http://www.zdnet.com/article/bgp-spoofing-why-nothing-on-the-internet-is-actually-secure/)
 25. [How Learning Smalltalk can make you a better Programmer](http://techbeacon.com/how-learning-smalltalk-can-make-you-better-developer)
+26. [621+ Programming Resources](https://medium.com/free-stuff/2000-programming-resources-c2c835001216#.a6si57a97)
 
 #### Blogs
 
