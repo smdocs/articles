@@ -63,6 +63,9 @@ This is a place for me to collect and collate interesting articles related to di
 ##Performance##
 * [You're probably wrong about caching](http://msol.io/blog/tech/youre-probably-wrong-about-caching/) by [Mike Solomon](https://twitter.com/msol).  Good summary of potential downsides of using caching to increase system performance.
 
+###Outages Postmorterm
+[GitLab Database Outage](https://about.gitlab.com/2017/02/10/postmortem-of-database-outage-of-january-31/)
+
 ###Resources
 
 -  [Riot Games Engineering Blog](http://engineering.riotgames.com/)
