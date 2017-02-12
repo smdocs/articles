@@ -45,6 +45,7 @@ This is a place for me to collect and collate interesting articles related to di
 9. [Being privacy aware](https://vox.space/blog/89/being-privacy-aware-in-2016)
 10. [Reverse-engineering native-apps by Intercepting Network](http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network)
 11. [Programming Books Every Programmer Should Read](http://danluu.com/programming-books/)
+12. [Thrill - Big Data Processing in C++](http://blog.brakmic.com/thrill-big-data-processing-with-c/)
 
 ###Build Stacks
 
