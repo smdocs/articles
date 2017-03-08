@@ -11,8 +11,8 @@ This is a place for me to collect and collate interesting articles related to di
 7. [10 Things Bitly forgot to Monitor](http://word.bitly.com/post/74839060954/ten-things-to-monitor)
 8. [High Scalability - All time favourites](http://highscalability.com/all-time-favorites/)
 9. [10 Practical Docker Tips](http://www.smartjava.org/content/10-practical-docker-tips-day-day-docker-usage)
-10. [Haskell Game Server - Part 1](http://mojobojo.com/posts/2015-12-26-haskell-game-server-part-1.html)
-11. [Haskell Game Server - Part 2](http://mojobojo.com/posts/2016-01-01-haskell-game-server-part-2.html)
+10. [Haskell Game Server - Part 1](http://brian.uncannyworks.com/posts/2015-12-26-haskell-game-server-part-1.html)
+11. [Haskell Game Server - Part 2](http://brian.uncannyworks.com/posts/2016-01-01-haskell-game-server-part-2.html)
 11. [Let's build a web server](http://ruslanspivak.com/lsbaws-part1/)
 12. [Starting a tech startup with c++](https://medium.com/@jamesperry/starting-a-tech-startup-with-c-6b5d5856e6de#.tk2wgvi7b)
 13. [Who builds a house without drawing blueprints](http://cacm.acm.org/magazines/2015/4/184705-who-builds-a-house-without-drawing-blueprints/fulltext)
@@ -46,6 +46,7 @@ This is a place for me to collect and collate interesting articles related to di
 10. [Reverse-engineering native-apps by Intercepting Network](http://nickfishman.com/post/50557873036/reverse-engineering-native-apps-by-intercepting-network)
 11. [Programming Books Every Programmer Should Read](http://danluu.com/programming-books/)
 12. [Thrill - Big Data Processing in C++](http://blog.brakmic.com/thrill-big-data-processing-with-c/)
+13. [A simple game in Haskell](https://jumboeats.wordpress.com/)
 
 ###Build Stacks
 
