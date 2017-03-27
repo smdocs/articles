@@ -31,7 +31,7 @@ This is a place for me to collect and collate interesting articles related to di
 26. [621+ Programming Resources](https://medium.com/free-stuff/2000-programming-resources-c2c835001216#.a6si57a97)
 27. [Automated Testing on Devices](http://techblog.netflix.com/2016/08/automated-testing-on-devices.html)
 28. [Distributed Logging Architecture](https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era/)
-
+[Writing a Linux debugger](http://blog.tartanllama.xyz/c++/2017/03/21/writing-a-linux-debugger-setup/)
 #### Blogs
 
 1. [Chris Stucchio](https://www.chrisstucchio.com/publications.html)
